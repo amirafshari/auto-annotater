@@ -2,6 +2,8 @@
 YOLO auto annotator  
   
 **Both below scenarios are considered in the code**  
+**My usecase is traffic signs, not animals**
+
 
 # Auto Classification Only (you have the groundtruth files)
 Consider you have a dataset of animals, and your dataset only has one label (0: animal), but you want a more specific dataset, which is labeld by the name of each animal (0:dog, 1: cat, 2: horse, ...).  
@@ -21,5 +23,3 @@ You have two options:
 Good Luck!
 2. Annotate and label them automatically  
 In order to do this, you need to train a small detector (yes you have to annotate manually, but much less data) and a classifier like above in order to classifies the animals.
-  
-**My use case is traffic sign, not animals**
