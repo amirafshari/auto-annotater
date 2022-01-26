@@ -1,6 +1,7 @@
 # Auto Annotator
 YOLO auto annotator
-**Both below scenarois 
+**Both below scenarios are considered in the code**  
+
 # Auto Classification Only (you have the groundtruth files)
 Consider you have a dataset of animals, and your dataset only has one label (0: animal), but you want a more specific dataset, which is labeld by the name of each animal (0:dog, 1: cat, 2: horse, ...).  
 There are two ways to create such dataset:  
