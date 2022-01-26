@@ -21,3 +21,5 @@ You have two options:
 Good Luck!
 2. Annotate and label them automatically  
 In order to do this, you need to train a small detector (yes you have to annotate manually, but much less data) and a classifier like above in order to classifies the animals.
+  
+**My use case is traffic sign, not animals**
