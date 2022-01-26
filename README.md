@@ -1,2 +1,2 @@
-# auto-annotater
+# Auto Annotator
 YOLO auto annotator
