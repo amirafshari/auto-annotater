@@ -1,5 +1,5 @@
 # Auto Annotator
-YOLO auto annotator
+YOLO auto annotator  
 **Both below scenarios are considered in the code**  
 
 # Auto Classification Only (you have the groundtruth files)
